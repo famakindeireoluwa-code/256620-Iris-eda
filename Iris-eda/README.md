@@ -1,11 +1,7 @@
 # Iris Dataset - Exploratory Data Analysis
 
 Name: Famakinde Ireoluwa Zion
-
-
 Matric NO.: 256620
-
-
 Date: 08/10/2026
 
 ## About
